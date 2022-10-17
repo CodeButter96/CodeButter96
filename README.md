@@ -1,7 +1,15 @@
 <div align="center">
 
 ### 👋 Hi there... 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeButter96&count_bg=%233DA1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![CodeButter96's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeButter96&show_icons=true&theme=github_dark&count_private=true&custom_title=CodeButter96's%20Github%20Stats)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=d0003)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeButter96&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## 🛠 Skills
 
@@ -26,7 +34,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
-</div>
 
 
 
@@ -43,12 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeButter96&count_bg=%233DA1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![CodeButter96's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeButter96&show_icons=true&theme=github_dark&count_private=true&custom_title=CodeButter96's%20Github%20Stats)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=d0003)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeButter96&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
