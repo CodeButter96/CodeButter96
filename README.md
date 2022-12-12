@@ -34,7 +34,11 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
+## 🖥 Projects
 
+**Web Service..**
+
+- ZzangBaguni [[link](https://zzangbaguni.shop) / [git](https://github.com/IdxS-dot/TEAM_LS.git)]
 
 
 <!--
