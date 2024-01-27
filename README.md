@@ -1,37 +1,33 @@
-<!--<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%2C%20I%27m%20Sanghyeop%20Lee&fontSize=78&animation=fadeIn&fontAlignY=38&desc=And%20Welcome%20to%20My%20Repository&descSize=30&descAlignY=65)
 
-### 👋 Hi there... 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeButter96&count_bg=%233DA1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 📜 Tech Stack
 
-![CodeButter96's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeButter96&show_icons=true&theme=github_dark&count_private=true&custom_title=CodeButter96's%20Github%20Stats)
+**Using**
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=d0003)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%6DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeButter96&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+**Have tried**
 
-</div>-->
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
-## 🛠 Skills..
-
-
-**Web Frameworks**
-
-![Spring](https://img.shields.io/badge/spring-%6DB33F.svg?style=flat&logo=spring&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)   
-
-**Database**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-**Tools..**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+## ✏️ Algorithm
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d0003">
 
 ## 🖥 Projects
-
-**Web Service..**
-
 - ZzangBaguni [~~link~~ / [git](https://github.com/IdxS-dot/TEAM_LS.git)]
+- 감성분석 [[link](http://3.35.30.43/) / [git](https://github.com/findHapppiness/diary) ]
 
 
 <!--
